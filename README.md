@@ -21,11 +21,7 @@
 <!-- VOID ORB -->
 
 <div align="center">
-  <img 
-    src="data:image/jpeg;base64,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" 
-    width="300"
-    alt="Void Sphere"
-  />
+  <img src="./assets/void.jpg" width="300" alt="Void Sphere" />
   <sub><i>The Core</i></sub>
 </div>
 
@@ -53,4 +49,53 @@
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<!-- Tools & OS -->
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+
+</p>
+
+---
+
+# 📊 // VOID STATISTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=void-daksh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=a6a6a6" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void-daksh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=a6a6a6" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=void-daksh&theme=radical&hide_border=true&background=0d1117&ring=a6a6a6&fire=a6a6a6&currStreakLabel=a6a6a6" />
+
+</div>
+
+---
+
+# 📡 // ESTABLISH CONNECTION
+<p align="center">
+<a href="https://instagram.com/void-daksh">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:xyz">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/void-daksh">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+</p>
