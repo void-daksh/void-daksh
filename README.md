@@ -83,7 +83,8 @@
 
 # 📡 // ESTABLISH CONNECTION
 <p align="center">
-<a href="https://instagram.com/void-daksh">
+
+<a href="https://www.instagram.com/daksh.ftww/?utm_source=ig_web_button_share_sheet">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -94,8 +95,10 @@
 <a href="https://linkedin.com/in/void-daksh">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 </p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </p>
+
