@@ -48,6 +48,7 @@ Location: Unknown (Rishikesh, IN)
 - 🚫 Light Mode
 
 
+
 ⚔️ // THE ARSENAL (Tech Stack)
 
 <p align="left">
@@ -59,11 +60,8 @@ Location: Unknown (Rishikesh, IN)
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
 
-
-
-
-
 <!-- Tools & OS -->
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Vim-019733%3Fstyle%3Dfor-the-badge%26logo%3Dvim%26logoColor%3Dwhite" />
